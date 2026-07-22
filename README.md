@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Fernando Jose Morales Rodriguez</h1>
-<h3 align="center">Desarrollador Full Stack</h3>
+<h3 align="center">Desarrollador de Sotfware</h3>
 
 <p align="center">
   💻 Construyendo aplicaciones web de extremo a extremo, desde la interfaz hasta la base de datos.
@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador Full Stack con experiencia trabajando en todas las capas de una aplicación: interfaces modernas en el frontend, APIs y servicios robustos en el backend, y diseño/administración de bases de datos relacionales. Me gusta aprender nuevas tecnologías y aplicar buenas prácticas para construir software mantenible y escalable.
+Soy desarrollador de software con experiencia trabajando en todas las capas de una aplicación: interfaces modernas en el frontend, APIs y servicios robustos en el backend, y diseño/administración de bases de datos relacionales. Me gusta aprender nuevas tecnologías y aplicar buenas prácticas para construir software mantenible y escalable.
 
 <br/>
 
