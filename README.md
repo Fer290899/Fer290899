@@ -56,14 +56,10 @@ Soy desarrollador de software con experiencia trabajando en todas las capas de u
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fer290899&show_icons=true&theme=default&count_private=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fer290899&layout=compact&theme=default" alt="Lenguajes más usados" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fer290899&theme=default" alt="Racha de contribuciones"/>
-</p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Fer290899&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Fer290899&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
 
 <br/>
 
